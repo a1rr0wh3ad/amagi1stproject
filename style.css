@@ -1,0 +1,42 @@
+html {
+	background-color: #A6D3FF;
+	color: #000000;
+	/*#2D567F;*/
+}
+ul {
+	display: inline-block;
+
+}
+li {
+	list-style: none;
+}
+/*
+a {
+  color: #E7F6FF;
+}
+
+a:visited {
+  color: #B29164;
+}
+*/
+
+
+#sample-projects li {
+	float: left;
+	padding: 10px;
+	border-color: #85A8CC;
+	background-color: #5AACFF;
+}
+
+#temp {
+	font-size: 1em;
+}
+
+a:link { color: white;
+}
+a :visited { color: grey;
+}
+a :hover { color: yellow;
+}
+a :active { color: red;
+}
